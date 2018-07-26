@@ -14,6 +14,7 @@
 		524FB89B20FCB32400AAAFC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 524FB89920FCB32400AAAFC5 /* LaunchScreen.storyboard */; };
 		524FB8A620FCB32400AAAFC5 /* hustle_modeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524FB8A520FCB32400AAAFC5 /* hustle_modeTests.swift */; };
 		524FB8B120FCB32400AAAFC5 /* hustle_modeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 524FB8B020FCB32400AAAFC5 /* hustle_modeUITests.swift */; };
+		524FB8BF20FCB90700AAAFC5 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 524FB8BE20FCB90700AAAFC5 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		524FB8AC20FCB32400AAAFC5 /* hustle_modeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hustle_modeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		524FB8B020FCB32400AAAFC5 /* hustle_modeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hustle_modeUITests.swift; sourceTree = "<group>"; };
 		524FB8B220FCB32400AAAFC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		524FB8BE20FCB90700AAAFC5 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "hustle-on.wav"; path = "../../../Downloads/hustle-mode-code-assets/assets/Assets/hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				524FB89020FCB32300AAAFC5 /* AppDelegate.swift */,
+				524FB8BE20FCB90700AAAFC5 /* hustle-on.wav */,
 				524FB89220FCB32300AAAFC5 /* ViewController.swift */,
 				524FB89420FCB32300AAAFC5 /* Main.storyboard */,
 				524FB89720FCB32400AAAFC5 /* Assets.xcassets */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				524FB8BF20FCB90700AAAFC5 /* hustle-on.wav in Resources */,
 				524FB89B20FCB32400AAAFC5 /* LaunchScreen.storyboard in Resources */,
 				524FB89820FCB32400AAAFC5 /* Assets.xcassets in Resources */,
 				524FB89620FCB32300AAAFC5 /* Main.storyboard in Resources */,
